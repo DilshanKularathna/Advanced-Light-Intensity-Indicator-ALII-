@@ -45,9 +45,6 @@ The following materials must be uploaded for submission:
 1. **Simulation Files**: All files used to create the final task.
 2. **Video Demo**: A short screen recording (under 8 minutes) showcasing all working features of the simulation.
 
----
-
-## Folder Structure
 
 
 ---
